@@ -35,7 +35,7 @@ const Hero = () => {
 
         <Link
           href="/join-room"
-          className="inline-flex h-12 items-center justify-center rounded-xl border border-purple-500/40 bg-white/[0.03] px-8 font-semibold text-purple-200 transition-all duration-300 hover:-translate-y-1 hover:border-purple-400 hover:bg-purple-500/10 active:translate-y-0"
+          className="inline-flex h-12 items-center justify-center rounded-xl border border-purple-500/40 bg-white/3 px-8 font-semibold text-purple-200 transition-all duration-300 hover:-translate-y-1 hover:border-purple-400 hover:bg-purple-500/10 active:translate-y-0"
         >
           Join Room
         </Link>
